@@ -37,3 +37,14 @@ footer {
     text-align: center;
     font-family: 'Indie Flower', cursive;
 }
+
+.button input{
+    margin-left: 45%;
+    margin-top: 5%;
+    font-size: 2rem;
+    border-radius: 50px;
+    background-color: #4ECCA3;
+    color: #393E46;
+    padding: 10px 20px;
+    border: none;
+}
